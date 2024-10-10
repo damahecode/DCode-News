@@ -17,7 +17,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-# DCode News
+# News App
 A Material Design-based News App using Android Jetpack Compose.
 
 ## Requirements
